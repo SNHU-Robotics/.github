@@ -1,3 +1,3 @@
 # SNHU-Robotics
 
-Welcome! More to come!
+Use this repo to store data specific to the org on github!
