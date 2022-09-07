@@ -1,3 +1,3 @@
-# SNHU-Robotics
+## SNHU Robotics
 
-SNHU Robotics is a student organization at Southern New Hampshire University that focuses on bringing students together who strive to enrich their lives with the study and implementation of Robotics, and to enrich our campus by promoting social belonging.
+This repo is for the customization of our github page! (and maybe some misc other junk)
